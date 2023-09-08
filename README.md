@@ -9,10 +9,6 @@ Web API Caching is a simple project demonstrating how to implement caching in a 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
