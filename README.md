@@ -27,6 +27,7 @@ This project showcases the implementation of caching techniques in a .NET Web AP
 - [Visual Studio](https://visualstudio.microsoft.com/) (or any other .NET development environment)
 - [.NET SDK](https://dotnet.microsoft.com/download) (version X.X or higher)
 - [Postman](https://www.postman.com/) (optional, for testing the API)
+- [Redis Docker Container](https://hub.docker.com/_/redis) (redis as external cache)
 
 ### Installation
 
